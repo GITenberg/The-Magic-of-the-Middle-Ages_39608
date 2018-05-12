@@ -1,0 +1,44 @@
+_repo: The-Magic-of-the-Middle-Ages_39608
+_version: 0.1.0
+alternative_title: Medeltidens magi. English
+contributor:
+  translator:
+    agent_name: Edgren, August Hjalmar
+    aliases:
+    - Edgren, A. Hjalmar (August Hjalmar)
+    - Edgren, Hjalmar
+    - Edgren, H. (Hjalmar)
+    birthdate: 1840
+    deathdate: 1903
+    gutenberg_agent_id: '40108'
+    url: http://www.gutenberg.org/2009/agents/40108
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rydberg, Viktor
+    aliases:
+    - Rydberg, V. (Viktor)
+    - Rydberg, Abraham Viktor
+    - Rydberg, Victor
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '3156'
+    url: http://www.gutenberg.org/2009/agents/3156
+    wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
+description: ''
+gutenberg_issued: '2012-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Medieval'
+- !lcc 'BF'
+- !lcsh 'Magic -- History'
+title: The Magic of the Middle Ages
+url: http://www.gutenberg.org/ebooks/39608
