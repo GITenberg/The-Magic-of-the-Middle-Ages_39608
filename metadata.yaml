@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3156
     wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39608#The-Magic-of-the-Middle-Ages
 gutenberg_issued: '2012-05-04'
 gutenberg_type: Text
 identifiers:
